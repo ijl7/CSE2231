@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\isaac\Documents\GitHub\CSE2231\.metadata\.plugins\org.eclipse.jdt.core
+3803309674.index
+3379039751.index
+785761439.index
+2492507918.index
