@@ -10,7 +10,7 @@ PROGRAM Test IS
   END walk
 
 BEGIN
-  IF next-is-empty THEN
+  IF next-is-empty DO
     walk
   ELSE
     kill

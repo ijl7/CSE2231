@@ -12,7 +12,7 @@ PROGRAM Block IS
   END attack
 
 BEGIN
-  IF next-is-enemy THEN
+  IF next-is-enemy DO
     infect
   END IF
   WHILE next-is-empty DO
