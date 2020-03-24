@@ -15,7 +15,7 @@ import components.utilities.Tokenizer;
  *             and [$this.body is a BLOCK statement]
  * @correspondence this = ($this.name, $this.context, $this.body)
  *
- * @author Isaac Lieber and Michael Zhu
+ * @author Put your name here
  *
  */
 public class Program2 extends ProgramSecondary {
@@ -175,7 +175,7 @@ public class Program2 extends ProgramSecondary {
         return this.name;
     }
 
-    @Override
+  @Override
     public final Map<String, Statement> newContext() {
     	return new Map1L<String, Statement>();
     }

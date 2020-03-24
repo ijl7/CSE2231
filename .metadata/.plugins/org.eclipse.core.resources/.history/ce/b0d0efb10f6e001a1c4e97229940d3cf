@@ -22,8 +22,8 @@ public abstract class ProgramTest {
      * The name of a file containing a BL program.
      */
     private static final String FILE_NAME_1 = "data/program-sample.bl";
-    private static final String FILE_NAME_2 = "data/program.bl";
-    private static final String FILE_NAME_3 = "data/blockprogram.bl";
+    private static final String FILE_NAME_2 = "data/program.txt";
+    private static final String FILE_NAME_3 = "data/blockprogram.txt";
     
     /**
      * Invokes the {@code Program} constructor for the implementation under test
