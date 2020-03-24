@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;ProgramAndStatement/data/blockprogram.txt&apos; to &apos;blockprogram.bl&apos;" description="Rename resource &apos;blockprogram.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="data/blockprogram.txt" name="blockprogram.bl" stamp="1585082398032" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;ProgramAndStatement/data/program.txt&apos; to &apos;program.bl&apos;" description="Rename resource &apos;program.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="data/program.txt" name="program.bl" stamp="1585082408821" updateReferences="true"/>
-</session>
