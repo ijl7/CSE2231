@@ -105,7 +105,7 @@ public class Program2 extends ProgramSecondary {
      * Creator of initial representation.
      */
     private void createNewRep() {
-    	this.name = "Unnamed";
+    	this.name = "";
     	this.context = new Map1L<String, Statement>();
     	this.body = new Statement1();
     }

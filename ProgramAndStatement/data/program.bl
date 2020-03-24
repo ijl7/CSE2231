@@ -1,0 +1,18 @@
+PROGRAM Test IS
+
+  INSTRUCTION kill IS
+    infect
+  END kill
+
+  INSTRUCTION walk IS
+    move
+    turnright
+  END walk
+
+BEGIN
+  IF next-is-empty THEN
+    walk
+  ELSE
+    kill
+  END IF
+END Test
